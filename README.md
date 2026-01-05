@@ -8,9 +8,21 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109-009688.svg)](https://fastapi.tiangolo.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black.svg)](https://nextjs.org/)
 
+![SkillLens Banner](.github/images/banner.png)
+
 SkillLens is an AI-powered career intelligence platform that predicts, explains, and optimizes employability using semantic NLP, knowledge graphs, and adaptive AI agents.
 
+## 📸 Platform Overview
+
+### Dashboard Preview
+![Dashboard Mockup](.github/images/dashboard.png)
+
+### How It Works
+![Workflow Diagram](.github/images/workflow.png)
+
 ## 🎯 Features
+
+![Features Showcase](.github/images/features.png)
 
 ### Core Modules
 
@@ -42,6 +54,9 @@ SkillLens is an AI-powered career intelligence platform that predicts, explains,
 ### Infrastructure
 - **Containerization**: Docker
 - **Deployment**: Render / AWS
+
+### System Architecture
+![Architecture Diagram](.github/images/architecture.png)
 
 ## 🚀 Quick Start
 
@@ -208,6 +223,8 @@ python backend/scripts/init_skill_graph.py
 
 > [!IMPORTANT]
 > **SkillLens is built on empirical research, not assumptions.**
+
+![Research Statistics](.github/images/research-stats.png)
 
 ### Research Study
 
